@@ -73,6 +73,10 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/Akash72914/Akash72914/output/pacman-contribution-graph.svg" alt="Pacman Animation">
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akash72914/Akash72914/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akash72914/Akash72914/output/pacman-contribution-graph.svg">
