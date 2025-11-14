@@ -1,3 +1,4 @@
+
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Akash72914.Akash72914&"  />
 </div>
@@ -99,9 +100,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Akash72914&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akash72914&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Akash72914&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  ---
+
+---
 <h2 align="left">GitHub Trophies</h2>
 <img src="https://github-profile-trophy.vercel.app?username=Akash72914&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-###
+---
+
+### 📊 3D Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/Akash72914/Akash72914/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+</p>
