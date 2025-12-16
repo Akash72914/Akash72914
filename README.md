@@ -1,8 +1,3 @@
-
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Akash72914.Akash72914&"  />
-</div>
-
 ###
 
 <h1 align="center">Hey 👋 I'm Akash</h1>
