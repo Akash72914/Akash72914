@@ -68,6 +68,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
+</p>
 </p>
 
 ---
