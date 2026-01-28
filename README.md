@@ -12,9 +12,9 @@
 
 ###
 
-<div align="center">
-  <img height="204" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=500&color=007BFF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+DSA+Enthusiast;Code.+Learn.+Build.+Repeat.&type=mono&repeat=true" alt="Typing Animation" />
+</p>
 
 ###
 ---
