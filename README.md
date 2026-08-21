@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">💻 Computer Science & Engineering Student<br>🚀 Passionate about Java & Backend Development – building scalable and efficient applications.<br>📚 Daily DSA Practice – solving problems to strengthen algorithms and problem-solving skills.<br>🌱 Always Learning – exploring new technologies, frameworks, and tools to improve coding and development expertise.<br>🛠️ Projects – experimenting with web development, backend services, and real-world applications to apply skills practically.</p>
+<p align="left">💻 Computer Science & Engineering Graduate.<br>🚀 Passionate about Java & Backend Development – building scalable and efficient applications.<br>📚 Daily DSA Practice – solving problems to strengthen algorithms and problem-solving skills.<br>🌱 Always Learning – exploring new technologies, frameworks, and tools to improve coding and development expertise.<br>🛠️ Projects – experimenting with web development, backend services, and real-world applications to apply skills practically.</p>
 
 ###
 
